@@ -1,0 +1,2 @@
+# praktika
+Praktinės C++ užduotys
