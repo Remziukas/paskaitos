@@ -3,5 +3,6 @@
 Užduočių sąlygas, komentarus bei realizacijų pavyzdžius rasite: [Objektinio programavimo praktinių darbų wiki puslapyje](https://github.com/objprog/praktika/wiki)
 
 - [1-oji užduotis](https://github.com/objprog/praktika/wiki/1-oji-užduotis)
+- [2-oji užduotis](https://github.com/objprog/praktika/wiki/2-oji-užduotis)
 
 
