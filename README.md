@@ -10,17 +10,17 @@ Pratinių užduočių sąlygas, reikalavimus darbų atlikimui, terminus, bei rea
 - [2-oji užduotis](https://github.com/objprog/praktika/wiki/2-oji-užduotis)
 
 
-__Svarbūs programavimo elementai__
+__Svarbios programavimo temos:__
 
 - [vector-vs-C-array](https://github.com/objprog/praktika/wiki/vector-vs-C-array)
 
-<a href="https://github.com/objprog/praktika/wiki"><img src="https://www.shareicon.net/download/2016/11/14/852446_git.svg" width="50"></a> __Git pradžiamokslis:__
+__Git pradžiamokslis:__
 
 
-* [[Pradedame dirbti su Git]]
-* [[Bazinės komandos]]
-* [[Nuotoliniai serveriai (GitHub)]]
-* [[Šakojimas ir suliejimas]]
-* [[Naudingos nuorodos]]
+* [Pradedame dirbti su Git](https://github.com/objprog/praktika/wiki/Pradedame-dirbti-su-Git)
+* [Bazinės komandos](https://github.com/objprog/praktika/wiki/Bazin%C4%97s-komandos)
+* [Nuotoliniai serveriai (GitHub)](https://github.com/objprog/praktika/wiki/Nuotoliniai-serveriai-%28GitHub%29)
+* [Šakojimas ir suliejimas](https://github.com/objprog/praktika/wiki/%C5%A0akojimas-ir-suliejimas)
+* [Naudingos nuorodos](https://github.com/objprog/praktika/wiki/Naudingos-nuorodos)
 
 
