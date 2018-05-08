@@ -8,6 +8,8 @@ Pratinių užduočių sąlygas, reikalavimus darbų atlikimui, terminus, bei rea
 
 - [1-oji užduotis](https://github.com/objprog/praktika/wiki/1-oji-užduotis)
 - [2-oji užduotis](https://github.com/objprog/praktika/wiki/2-oji-užduotis)
+- [3-oji užduotis](https://github.com/objprog/praktika/wiki/3-oji-užduotis)
+- [4-oji užduotis](https://github.com/objprog/praktika/wiki/4-oji-užduotis)
 
 
 __Svarbios programavimo temos:__
