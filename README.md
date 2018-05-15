@@ -9,9 +9,20 @@
 
 __OOP kurso temos (pagal dalyko modulį):__
 
-| Temos(-ų) pavadinimas(-ai)  | Tinkanti medžiaga |
-|:---------------------------:|:-----------------:|
-| Kurso apžvalga. Kas yra objektiškai orientuotas programavimas (OOP), objekto koncepcija. Pažintis su programavimo aplinka: kompiliatorių ir įrankių apžvalga. | [slides/oop-ivadas.pdf](https://github.com/objprog/paskaitos/blob/master/slides/oop-ivadas.pdf) |
+| Temų pavadinimai            | Esanti medžiaga   |
+|:----------------------------|:-----------------:|
+| 1. Kurso apžvalga, C++ standartai, kas yra objektiškai orientuotas programavimas (OOP)?, objekto koncepcija, pažintis su programavimo aplinka: kompiliatorių ir įrankių (IDE) apžvalga, versijų kontrolės sistemos (git), make/cmake įrankiai, unit-testai. | [slides/oop-ivadas.pdf](https://github.com/objprog/paskaitos/blob/master/slides/oop-ivadas.pdf) |
+| 2. Baziniai duomenų tipai, tipų transformacija, „l-values“ ir „r-values“, rodyklės ir nuorodos, „l-values“ (konstantinės) nuorodos, dinaminis atminties valdymas, aritmetika su adresais. Funkcijų persidengimas, direktyvos. Įvesties ir išvesties operatoriai. | |
+| 3. Vartotojo tipai, klasės ir objektai, struktūros, konstruktoriai, pagrindinis konstruktorius, destruktoriai, C++ “garbage collector” - „RAII“ paradigmą, inkapsuliavimas, matomumo kontrolė, UML diagramos, dokumentacijos kūrimas su Doxygen. | |
+| 4. Operatorių persidengimas, įvesties/išvesties operatoriai, operatorių persidengimo realizavimo strategijos, kopijavimo konstruktorius, priskyrimo ir kopijavimo konstruktoriaus palyginimas, konstruktorius, seklus ir gilus kopijavimas, „rule of 3” , „r-values“ nuorodos, „move“ semantika, “rule of 5”, “išmaniosios” rodyklės. | |
+| 5. Kompozicija ir agregavimas, paveldėjimas, paveldėjimo kontrolė, konstruktoriai ir paveldėjimas polimorfizmas, virtualios funkcijos, ankstyvas ir vėlyvas binding’as. | |
+| 6. Standartiniai išvesties ir įvesties srautai, failų srautai. | |
+| 7. Klaidų ir išimčių valdymas, laiko matavimas (std::chrono biblioteka), atsitiktinių skaičių generavimas. | |
+| 8. Objektiškai orientuotas dizainas, interfeisai, bendrinis programavimas, šablono klasės ir funkcijos. | |
+| 9. Konteineriai (vektorius, dekas, sąrašas, žemėlapiai, hash lentelės ir t.t.), iteratoriai. Algoritmų apžvalga: efektyvumas su algoritmais, sparta su duomenų struktūromis. ||
+
+
+
 
 
 
@@ -20,3 +31,4 @@ __Git pradžiamokslis:__
 
 |[Pradedame dirbti su Git](https://github.com/objprog/paskaitos/wiki/Pradedame-dirbti-su-Git)| [Bazinės komandos](https://github.com/objprog/paskaitos/wiki/Bazin%C4%97s-komandos) | [Nuotoliniai serveriai (GitHub)](https://github.com/objprog/paskaitos/wiki/Nuotoliniai-serveriai-%28GitHub%29) | [Kopijuojame repo](https://github.com/objprog/paskaitos/wiki/Kopijuojame-repo) | [Šakojimas ir suliejimas](https://github.com/objprog/praktika/wiki/%C5%A0akojimas-ir-suliejimas) | [Naudingos nuorodos](https://github.com/objprog/praktika/wiki/Naudingos-nuorodos)
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+  
