@@ -20,11 +20,3 @@
 | 7. Klaidų ir išimčių valdymas, laiko matavimas (std::chrono biblioteka), atsitiktinių skaičių generavimas. | |
 | 8. Objektiškai orientuotas dizainas, interfeisai, bendrinis programavimas, šablono klasės ir funkcijos. | |
 | 9. Konteineriai (vektorius, dekas, sąrašas, žemėlapiai, hash lentelės ir t.t.), iteratoriai. Algoritmų apžvalga: efektyvumas su algoritmais, sparta su duomenų struktūromis. ||
-
-
-# Git pradžiamokslis:
-
-
-|[Pradedame dirbti su Git](https://github.com/objprog/paskaitos/wiki/Pradedame-dirbti-su-Git)| [Bazinės komandos](https://github.com/objprog/paskaitos/wiki/Bazin%C4%97s-komandos) | [Nuotoliniai serveriai (GitHub)](https://github.com/objprog/paskaitos/wiki/Nuotoliniai-serveriai-%28GitHub%29) | [Kopijuojame repo](https://github.com/objprog/paskaitos/wiki/Kopijuojame-repo) | [Šakojimas ir suliejimas](https://github.com/objprog/praktika/wiki/%C5%A0akojimas-ir-suliejimas) | [Naudingos nuorodos](https://github.com/objprog/praktika/wiki/Naudingos-nuorodos)
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-  
