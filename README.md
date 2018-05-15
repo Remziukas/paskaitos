@@ -9,7 +9,7 @@
 
 # OOP kurso temos (pagal dalyko modulį):
 
-| Temų pavadinimai            | Esanti medžiaga   |
+| Temų pavadinimai            | Pateikta medžiaga skaidrėse ir GitHub wiki |
 |:----------------------------|:------------------|
 | 1. Kurso apžvalga, C++ standartai, kas yra objektiškai orientuotas programavimas (OOP)?, objekto koncepcija, pažintis su programavimo aplinka: kompiliatorių ir įrankių (IDE) apžvalga, versijų kontrolės sistemos (git), make/cmake įrankiai, unit-testai. | <ul><li> [slides/oop-ivadas.pdf](https://github.com/objprog/paskaitos/blob/master/slides/oop-ivadas.pdf) </li><li> [Pradedame dirbti su Git](https://github.com/objprog/paskaitos/wiki/Pradedame-dirbti-su-Git) </li><li> [Bazinės komandos](https://github.com/objprog/paskaitos/wiki/Bazin%C4%97s-komandos) </li><li> [Nuotoliniai serveriai (GitHub)](https://github.com/objprog/paskaitos/wiki/Nuotoliniai-serveriai-%28GitHub%29) </li><li> [Kopijuojame repo](https://github.com/objprog/paskaitos/wiki/Kopijuojame-repo) </li><li> [Šakojimas ir suliejimas](https://github.com/objprog/praktika/wiki/%C5%A0akojimas-ir-suliejimas) </li><li> [Naudingos nuorodos](https://github.com/objprog/praktika/wiki/Naudingos-nuorodos) </li></ul> | 
 | 2. Baziniai duomenų tipai, tipų transformacija, „l-values“ ir „r-values“, rodyklės ir nuorodos, „l-values“ (konstantinės) nuorodos, dinaminis atminties valdymas, aritmetika su adresais. Funkcijų persidengimas, direktyvos. Įvesties ir išvesties operatoriai. | |
