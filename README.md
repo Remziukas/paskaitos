@@ -14,7 +14,5 @@ __Svarbios programavimo temos:__
 __Git pradžiamokslis:__
 
 
-* [Naudingos nuorodos](https://github.com/objprog/praktika/wiki/Naudingos-nuorodos)
-
 |[Pradedame dirbti su Git](https://github.com/objprog/paskaitos/wiki/Pradedame-dirbti-su-Git)| [Bazinės komandos](https://github.com/objprog/paskaitos/wiki/Bazin%C4%97s-komandos) | [Nuotoliniai serveriai (GitHub)](https://github.com/objprog/paskaitos/wiki/Nuotoliniai-serveriai-%28GitHub%29) | [Kopijuojame repo](https://github.com/objprog/paskaitos/wiki/Kopijuojame-repo) | [Šakojimas ir suliejimas](https://github.com/objprog/praktika/wiki/%C5%A0akojimas-ir-suliejimas) | [Naudingos nuorodos](https://github.com/objprog/praktika/wiki/Naudingos-nuorodos)
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
