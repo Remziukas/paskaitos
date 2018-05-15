@@ -7,7 +7,7 @@
 | [1-oji užduotis](https://github.com/objprog/paskaitos/wiki/1-oji-užduotis) | [2-oji užduotis](https://github.com/objprog/paskaitos/wiki/2-oji-užduotis)  | [3-oji užduotis](https://github.com/objprog/paskaitos/wiki/3-oji-užduotis) | [4-oji užduotis](https://github.com/objprog/paskaitos/wiki/4-oji-užduotis) | [5-oji užduotis](https://github.com/objprog/paskaitos/wiki/5-oji-užduotis) |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 
-__Svarbios programavimo temos:__
+__Paskaitų medžiaga:__
 
 - [vector-vs-C-array](https://github.com/objprog/praktika/wiki/vector-vs-C-array)
 
