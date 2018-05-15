@@ -7,9 +7,13 @@
 | [1-oji užduotis](https://github.com/objprog/paskaitos/wiki/1-oji-užduotis) | [2-oji užduotis](https://github.com/objprog/paskaitos/wiki/2-oji-užduotis)  | [3-oji užduotis](https://github.com/objprog/paskaitos/wiki/3-oji-užduotis) | [4-oji užduotis](https://github.com/objprog/paskaitos/wiki/4-oji-užduotis) | [5-oji užduotis](https://github.com/objprog/paskaitos/wiki/5-oji-užduotis) |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 
-__Paskaitų medžiaga:__
+__OOP kurso temos (pagal dalyko modulį):__
 
-- [vector-vs-C-array](https://github.com/objprog/praktika/wiki/vector-vs-C-array)
+| Temos(-ų) pavadinimas(-ai)  | Tinkanti medžiaga |
+|:---------------------------:|:-----------------:|
+| Kurso apžvalga. Kas yra objektiškai orientuotas programavimas (OOP), objekto koncepcija. Pažintis su programavimo aplinka: kompiliatorių ir įrankių apžvalga. | [slides/oop-ivadas.pdf](https://github.com/objprog/paskaitos/blob/master/slides/oop-ivadas.pdf) |
+
+
 
 __Git pradžiamokslis:__
 
