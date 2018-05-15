@@ -1,6 +1,6 @@
 # ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/30px-ISO_C%2B%2B_Logo.svg.png) Objektinio programavimo paskaitų medžiaga  
 
-## Wiki meniu
+## [Wiki](https://github.com/objprog/paskaitos/wiki) meniu
 
 <a href="https://github.com/objprog/praktika/wiki"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="20"></a> __praktinės užduotys:__
 
