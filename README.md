@@ -1,13 +1,13 @@
 # ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/30px-ISO_C%2B%2B_Logo.svg.png) Objektinio programavimo paskaitų medžiaga  
 
-## [Wiki](https://github.com/objprog/paskaitos/wiki) meniu
+# [Wiki](https://github.com/objprog/paskaitos/wiki) meniu
 
 <a href="https://github.com/objprog/praktika/wiki"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="20"></a> __praktinės užduotys:__
 
 | [1-oji užduotis](https://github.com/objprog/paskaitos/wiki/1-oji-užduotis) | [2-oji užduotis](https://github.com/objprog/paskaitos/wiki/2-oji-užduotis)  | [3-oji užduotis](https://github.com/objprog/paskaitos/wiki/3-oji-užduotis) | [4-oji užduotis](https://github.com/objprog/paskaitos/wiki/4-oji-užduotis) | [5-oji užduotis](https://github.com/objprog/paskaitos/wiki/5-oji-užduotis) |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 
-__OOP kurso temos (pagal dalyko modulį):__
+# OOP kurso temos (pagal dalyko modulį):
 
 | Temų pavadinimai            | Esanti medžiaga   |
 |:----------------------------|:-----------------:|
@@ -22,11 +22,7 @@ __OOP kurso temos (pagal dalyko modulį):__
 | 9. Konteineriai (vektorius, dekas, sąrašas, žemėlapiai, hash lentelės ir t.t.), iteratoriai. Algoritmų apžvalga: efektyvumas su algoritmais, sparta su duomenų struktūromis. ||
 
 
-
-
-
-
-__Git pradžiamokslis:__
+# Git pradžiamokslis:
 
 
 |[Pradedame dirbti su Git](https://github.com/objprog/paskaitos/wiki/Pradedame-dirbti-su-Git)| [Bazinės komandos](https://github.com/objprog/paskaitos/wiki/Bazin%C4%97s-komandos) | [Nuotoliniai serveriai (GitHub)](https://github.com/objprog/paskaitos/wiki/Nuotoliniai-serveriai-%28GitHub%29) | [Kopijuojame repo](https://github.com/objprog/paskaitos/wiki/Kopijuojame-repo) | [Šakojimas ir suliejimas](https://github.com/objprog/praktika/wiki/%C5%A0akojimas-ir-suliejimas) | [Naudingos nuorodos](https://github.com/objprog/praktika/wiki/Naudingos-nuorodos)
