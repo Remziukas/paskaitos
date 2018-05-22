@@ -12,7 +12,7 @@
 
 ## SVARBU: Info dėl užduočių struktūros ir kitų susijusių dalykų
 
-> Šiandien gavau klausimų/prieštaravimų, o kaip "_unit testing'as_" ir kiti pan. dalykai susiję su Objektinio Programavimo kursu? 
+> Gavau klausimų/prieštaravimų, o kaip "_unit testing'as_" ir kiti pan. dalykai susiję su Objektinio Programavimo kursu? 
 
 Pagal mane, jie susiję lygiai taip pat, kaip ir įvairūs IDE (CLion, Visual Studio, Codeblocks ir t.t.), grafiniai/komandinės eilutės debugeriai, įvairūs kompiliatoriai, jų flag'ai, warning'ų/error žinučių skaitymas ir bandymas jas suprasti, make/cmake failai ir jų paskirtis, revizijų kontrolės sistemos ir dar krūva kitų dalykų - tai yra dalis efektyvios programavimo aplinkos (_environmet_) kuris yra būtinas, jeigu jau pasirinkai programuotojo kelią. Kam kyla dvejonių, ar tikrai taip, pasiklauskite savo jau dirbančių kolegų arba tiesiog pavartykite darbo skelbimus, kuriuose ieško bent kiek "padoresnių" programerių. Galiausiai, atėjęs į Jūsų grupę pamačiau, kas buvo, kai mokėtės "tik procedūrinio programavimo" - to pasekoje dalis nežinojote, kas tas preprocesorius, kas tas kompiliatorius, linkeris ar net kaip projektas susideda iš kelių (header) failų? Ar tai yra procedūrinio programavimo dalis? Tikrai ne! Bet tai yra bendrai programavimo (nesigilinant procedūrinis, funkcinis, objektinis) labai svarbi dalis, be kurios gero supratimo neįmanoma kurti efektyvių programų. 
 
