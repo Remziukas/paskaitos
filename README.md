@@ -10,7 +10,7 @@
 - P.p.s. mes dar turime dvi teorines paskaitas kitą savaitę: dalį jų skirsime pitch'inimui, kuris manau yra labai naudingas, nes bent dalis iš Jūsų darydami užduotis sužinojote daug naudingų dalykų, o jais pasidalinti ir pasididžiuoti  prieš kolegas tikrai galima :smile: ir reikia! Kitą dalį, galiu skirti pagal Jūsų poreikius, t.y. informuokite ketvirtadienį ką iš Objektinio Programavimo teorijos dar norėtumėte geriau/giliau ar naujai sužinoti atsižvelgus į dalyko modulį.
 
 
-## SVARBU: Info dėl reikalavimų užduotims ir kitų susijusių dalykų
+## SVARBU: Info dėl užduočių struktūros ir kitų susijusių dalykų
 
 > Šiandien gavau klausimų/prieštaravimų, o kaip "_unit testing'as_" ir kiti pan. dalykai susiję su Objektinio Programavimo kursu? 
 
