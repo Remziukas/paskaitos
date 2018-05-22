@@ -2,6 +2,26 @@
 
 # [Wiki](https://github.com/objprog/paskaitos/wiki) meniu
 
+
+## SVARBU: Info dėl reikalavimų egzaminui
+
+- Egzaminui reikia (pagal aprašytus reikalavimus ir besilaikant nurodytų terminų) būti pasidarius: __2-ą, 3-ą (iki `v1.0`), 4-ą ir 5-ą užduotis__.
+- Kaip šiandien akcentavau per teorinę paskaitą, atsiskaitymas bus dviejų dalių: viešasis, t.y. 3-5 min. pitch'as prieš auditoriją, kurio metu Jūsų tikslas yra pristatyti (pasidalinti su kolegomis) 1-2 "cool dalykėliais" (sukurta funkcija, algoritmu, ciklu, C++ sintaksės niuansais ir pan.) kuriuos išmokote/sužinojote/atradote bedarydami tas užduotis ir kas galbūt būtų naudinga ir kitiems. Tam nereikia daryti jokių papildomų skaidrių. Tiesiog kiekvienos atitinkamos užduoties `README.md` failą papildykite tais "cool dalykėliais" ir paskaitos metu pristatysite kolegoms.
+- Egzamino užduotis bus iš paveldėjimo (_inheritance_) tematikos (medžiagos tam bus daugiau negu reikia - ketvirtadienio paskaita bus dar vėl skirta vien tam, o ir esu nurodęs literatūrą kurią galite papildomai pavartyti, jeigu jaučiatės vis dar netvirtai) ir bus tęsinys 3-osios užduoties. Ją atlikti bus nebūtina, jeigu visas užduotis iki 5-osios darėte savarankiškai ir kruopščiai ir mano siūlomas galutinis balas Jus tenkina! 
+- Jeigu galutinis balas netenkina, tuomet auditorijoje reikės atlikti egzamino užduotį ir tokiu būdu bus galima galutinį balą **pasikelti**, o taip pat įgyti daugiau patirties geriau įsisavinant paveldėjimo koncepsiją. 
+- P.s. Jeigu kažkuri suformuluota užduotis (dalis užduoties) būtų per sunki, t.y. visi ar beveik visi neįveiktų jos, tuomet aš jos tikrai neįtrauksiu į vertinimo procesą. Tačiau universitete niekada neturėtų būti, kad kiekvienai užduočiai Jums būtų parodoma kaip kažką panašaus daryti. Mūsų tikslas ugdyti Jūsų savarankiškumą ir asmeniškumą! Automatiškume žmonės su robotais nepakonkuruos :)
+- P.p.s. mes dar turime dvi teorines paskaitas kitą savaitę: dalį jų skirsime pitch'inimui, kuris manau yra labai naudingas, nes bent dalis iš Jūsų darydami užduotis sužinojote daug naudingų dalykų, o jais pasidalinti ir pasididžiuoti  prieš kolegas tikrai galima :smile: ir reikia! Kitą dalį, galiu skirti pagal Jūsų poreikius, t.y. informuokite ketvirtadienį ką iš Objektinio Programavimo teorijos dar norėtumėte geriau/giliau ar naujai sužinoti!
+
+
+## SVARBU: Info dėl reikalavimų užduotimsir kitų susijusių dalykų
+
+> Šiandien gavau klausimų/prieštaravimų, o kaip "_unit testing'as_" ir kiti pan. dalykai susiję su Objektinio Programavimo kursu? 
+
+Pagal mane, jie susiję lygiai taip pat, kaip ir įvairūs IDE (CLion, Visual Studio, Codeblocks ir t.t.), grafiniai/komandinės eilutės debugeriai, įvairūs kompiliatoriai, jų flag'ai, warning'ų/error žinučių skaitymas ir bandymas suprasti, make/cmake failai ir jų paskirtis, revizijų kontrolės sistemos ir dar krūva kitų dalykų - tai yra dalis efektyvios programavimo aplinkos (_environmet_) kuris yra būtinas, jeigu jau pasirinkai programuotojo kelią. Kam kyla dvejonių, ar tikrai taip, pasiklauskite savo jau dirbančių kolegų arba tiesiog pavartykite darbo skelbimus, kuriuose ieško bent kiek "padoresnių" programerių. Galiausiai, atėjęs į Jūsų grupę pamačiau, kas buvo, kai mokėtės "tik procedūrinio programavimo" - to pasekoje dalis nežinojote, kas tas preprocesorius, kas tas kompiliatorius, linkeris ar net kaip projektas susideda iš kelių (header) failų? Ar tai yra procedūrinio programavimo dalis? Tikrai ne! Bet tai yra bendrai programavimo (nesigilinant procedūrinis, funkcinis, objektinis) labai svarbi dalis, be kurios gero supratimo neįmanoma kurti efektyvių programų. 
+
+Jeigu dar kyla abejonių, tuomet leisiu egzaminą užduotį atlikti Notepad aplinkoje, nesinaudojant jokiais IDE, kompiliatoriaisi, debugeriais, make failais, o tik _pure_ Objektinio Programavimo žiniomis. Tuomet pamatysim, kaip patogu rašyti kodą be sintaksės palengvinimų, kompiliatoriaus naudojimo, debuggerio pagablos ar kaip iš viso pasidaryti galutinį exe failą iš kelių cpp/h failų. Tuomet ir pamatysim ar visa to reikia norint efektyviai programuoti ir ar galima be to apsieiti šiuolaikiniame programavimo kontekste.
+
+
 <a href="https://github.com/objprog/praktika/wiki"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="20"></a> __praktinės užduotys:__
 
 | [1-oji užduotis](https://github.com/objprog/paskaitos/wiki/1-oji-užduotis) | [2-oji užduotis](https://github.com/objprog/paskaitos/wiki/2-oji-užduotis)  | [3-oji užduotis](https://github.com/objprog/paskaitos/wiki/3-oji-užduotis) | [4-oji užduotis](https://github.com/objprog/paskaitos/wiki/4-oji-užduotis) | [5-oji užduotis](https://github.com/objprog/paskaitos/wiki/5-oji-užduotis) |
