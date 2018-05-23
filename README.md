@@ -1,7 +1,7 @@
 # ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/30px-ISO_C%2B%2B_Logo.svg.png) Objektinio programavimo paskaitų medžiaga  
 
 - __SVARBU:__ [Reikalavimai egzaminui](reikalavimai-egzaminui.md)
-- __MAŽIAU SVARBU: [Dėl užduočių struktūros ir susijusių dalykų](komentaras-del-uzduociu.md)
+- __MAŽIAU SVARBU__: [Dėl užduočių struktūros ir susijusių dalykų](komentaras-del-uzduociu.md)
 
 # [Wiki](https://github.com/objprog/paskaitos/wiki) meniu
 
