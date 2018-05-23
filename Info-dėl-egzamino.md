@@ -1,4 +1,4 @@
-# Reikalavimų egzaminui
+# Reikalavimai egzaminui
 
 - Egzaminui reikia (pagal aprašytus reikalavimus ir besilaikant nurodytų terminų) būti pasidarius: __2-ą, 3-ą (iki `v1.0`), 4-ą ir 5-ą užduotis__.
 - Kaip (šiandien) akcentavau per teorinę paskaitą, atsiskaitymas bus iš dviejų dalių: viešasis, t.y. 3-5 min. pitch'as prieš auditoriją, kurio metu Jūsų tikslas yra pristatyti (pasidalinti su kolegomis) 1-2 "cool dalykėliais" (sukurta funkcija, algoritmu, ciklu, C++ sintaksės niuansais ir pan.) kuriuos išmokote/sužinojote/atradote bedarydami tas užduotis ir kas galbūt būtų naudinga žinoti ir kitiems. Tam nereikia daryti jokių papildomų skaidrių. Tiesiog kiekvienos atitinkamos užduoties `README.md` failą papildykite tais "cool dalykėliais" ir paskaitos metu pristatysite kolegoms juos - programos paleidinėti nereikės - programų veikimą patikrinsiu per pratybas.
