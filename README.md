@@ -1,6 +1,6 @@
 # ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/30px-ISO_C%2B%2B_Logo.svg.png) Objektinio programavimo paskaitų medžiaga  
 
-SVARBU: [Info dėl reikalavimų egzaminui](Info-dėl-egzamino.md)
+__SVARBU:__ [Reikalavimai egzaminui](reikalavimai-egzaminui.md)
 
 ## SVARBU: Info dėl užduočių struktūros ir kitų susijusių dalykų
 
